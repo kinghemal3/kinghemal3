@@ -2,7 +2,7 @@
 💻 I'm a Website Developer with 3 years of experience in front-end and back-end development.
 
 🚀 Skills:
-Front-End: HTML5, CSS3, Bootstrap, React.js, Tailwind CSS
+Front-End: HTML5, CSS3, Bootstrap, React.js, Tailwind CSS.
 Back-End: PHP, MySQLi, ASP
 CMS: WordPress (Custom Theme & Plugin Development)
 
